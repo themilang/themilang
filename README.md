@@ -5,9 +5,9 @@
 
 [![Website](https://img.shields.io/website?label=milanghimire&style=for-the-badge&url=https%3A%2F%2Fmilanghimire.info.np)](https://milanghimire.info.np)
 
-## I'm a Full Stack Javascript Developer.
+## I'm a Full Stack Javascript Developer & ML/AI Learner
 
- Currently working on Online University and Student Progress Tracker System
+ 
 
   <summary>:zap: GitHub Stats</summary>
 
